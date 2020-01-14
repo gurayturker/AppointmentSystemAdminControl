@@ -1,0 +1,5 @@
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\ENTITYLAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\ENTITYLAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\ENTITYLAYER\obj\Debug\ENTITYLAYER.csprojAssemblyReference.cache
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\ENTITYLAYER\obj\Debug\ENTITYLAYER.dll
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\ENTITYLAYER\obj\Debug\ENTITYLAYER.pdb

@@ -1,0 +1,8 @@
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\FACADELAYER\bin\Debug\FACADELAYER.dll
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\FACADELAYER\bin\Debug\FACADELAYER.pdb
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\FACADELAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\FACADELAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\FACADELAYER\obj\Debug\FACADELAYER.csprojAssemblyReference.cache
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\FACADELAYER\obj\Debug\FACADELAYER.csproj.CopyComplete
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\FACADELAYER\obj\Debug\FACADELAYER.dll
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\FACADELAYER\obj\Debug\FACADELAYER.pdb

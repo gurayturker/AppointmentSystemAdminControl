@@ -1,0 +1,10 @@
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\BUSINESSLOGICLAYER\bin\Debug\BUSINESSLOGICLAYER.dll
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\BUSINESSLOGICLAYER\bin\Debug\BUSINESSLOGICLAYER.pdb
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\BUSINESSLOGICLAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\BUSINESSLOGICLAYER\bin\Debug\FACADELAYER.dll
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\BUSINESSLOGICLAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\BUSINESSLOGICLAYER\bin\Debug\FACADELAYER.pdb
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\BUSINESSLOGICLAYER\obj\Debug\BUSINESSLOGICLAYER.csprojAssemblyReference.cache
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\BUSINESSLOGICLAYER\obj\Debug\BUSINESSLOGICLAYER.csproj.CopyComplete
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\BUSINESSLOGICLAYER\obj\Debug\BUSINESSLOGICLAYER.dll
+C:\Users\guray\source\repos\RandevuSistemiAdminPaneli\BUSINESSLOGICLAYER\obj\Debug\BUSINESSLOGICLAYER.pdb
